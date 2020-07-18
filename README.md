@@ -1,5 +1,5 @@
 # Object-Detection-App
-A real-time object detection app using CameraX and ML model from tensor flow hub. The application detects objects from the camera in terms of percentage of similarity to objects in the Machine Learning model and hence it is not always accurate and is supposed to be used for fun.
+A real-time Object Detection app using CameraX and ML model from tensor flow hub. The application detects objects in real-time from the camera, also you can capture snapshots and it determines the object in terms of percentage similarity to objects trained in the Machine Learning model and hence may be inaccurate in some cases.
 
 ♦ MVVM Architecture\
 ♦ CameraX\
